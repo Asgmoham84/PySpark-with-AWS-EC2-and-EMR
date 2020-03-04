@@ -12,5 +12,6 @@ Steps:
   •	Set up SSH Tunneling from our local machine to AWS <br>
 5) Running Jupyter Notebook on our local browser<br><br>
 
-We will also show how to set up a cluster on AWS EMR (Elastic Map Reduce) and run your PySpark code on the cluster using Zeppelin Notebook
+We will also show how to:<br>
+* set up a cluster on AWS EMR (Elastic Map Reduce) and run your PySpark code on the cluster using Zeppelin Notebook
 
